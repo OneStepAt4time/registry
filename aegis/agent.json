@@ -6,7 +6,7 @@
   "repository": "https://github.com/OneStepAt4time/aegis",
   "website": "https://github.com/OneStepAt4time/aegis#readme",
   "authors": ["OneStepAt4time"],
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "distribution": {
     "npx": {
       "package": "@onestepat4time/aegis@0.6.7",
